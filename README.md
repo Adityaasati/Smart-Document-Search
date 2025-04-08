@@ -1,5 +1,5 @@
 
-```markdown
+
 # Smart Document Search
 
 Smart Document Search is a powerful tool designed to help users efficiently search and retrieve information from a collection of documents. It leverages advanced search algorithms and natural language processing to deliver accurate and relevant results.
