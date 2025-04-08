@@ -2,7 +2,7 @@
 
 # Smart Document Search
 
-Smart Document Search is a powerful tool designed to help users efficiently search and retrieve information from a collection of documents. It leverages advanced search algorithms and natural language processing to deliver accurate and relevant results.
+Smart Document Search is a powerful tool designed to help users efficiently search and retrieve information from given document. It leverages advanced search algorithms and natural language processing to deliver accurate and relevant results.
 
 ## Features
 
@@ -17,6 +17,7 @@ Smart Document Search is a powerful tool designed to help users efficiently sear
 1. **First Setup**:
    - You can create a document search system using `main.py` and `vector.py`, where the file is stored and its path is given.
    - Run the system using the command:
+     
    ```bash
    python main.py
    ```
@@ -24,6 +25,7 @@ Smart Document Search is a powerful tool designed to help users efficiently sear
 
 2. **Streamlit App**:
    - You can clone the `app.py` file and run the Streamlit app with the following command:
+     
    ```bash
    streamlit run app.py
    ```
@@ -66,4 +68,3 @@ This will launch the application in your browser.
 - **PyPDF2**: A library to extract text from PDF files.
 - **Pandas**: A library for data manipulation and handling CSV files.
 
-```
